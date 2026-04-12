@@ -52,8 +52,8 @@ jobs:
 
     runs-on: windows-latest
 
-    env:
-      Solution_Name: InfoSecChatBot.sln
+    env: 
+      Solution_Name: Project.slnx
 
     steps:
     - name: Checkout
