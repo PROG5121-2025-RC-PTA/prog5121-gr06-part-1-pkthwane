@@ -53,7 +53,7 @@ jobs:
     runs-on: windows-latest
 
     env: 
-      Solution_Name: Project.slnx
+      Solution_Name: Projects.slnx
 
     steps:
     - name: Checkout
